@@ -1,0 +1,4 @@
+traitsui
+traits
+pyface
+wxPython==4.1.1
